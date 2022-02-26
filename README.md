@@ -3,6 +3,7 @@
 - 🌱 I’m proficient HTML,CSS,Javascript,React,Bootstrap,Sass,Git.
 - 💞️ I’m looking to collaborate on the front-end development projects.
 - 📫 email- pyaesonepsn@gmail.com
+- Linkedin - https://www.linkedin.com/in/pyaesonepsn
 
 <!---
 pyaesonepsn/pyaesonepsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
