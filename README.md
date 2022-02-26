@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pyaesonepsn
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning CSS,Javascript,React,Bootstrap,PHP.
+- 🌱 I’m proficient HTML,CSS,Javascript,React,Bootstrap,Sass,Git.
 - 💞️ I’m looking to collaborate on the front-end development projects.
 - 📫 email- pyaesonepsn@gmail.com
 
