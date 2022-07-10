@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [pyaesonepsn.github.io/portfolio-project](pyaesonepsn.github.io/portfolio-project)
 
-- 💬 Ask me about **basic web development**
+- 💬 Ask me about **JavaScript, NodeJs, CSS**
 
 - 📫 How to reach me **pyaesonepsn@gmail.com**
 
