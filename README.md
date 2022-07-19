@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://create-portfolio-pyaesone.netlify.app](https://create-portfolio-pyaesone.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio-pyaesone.netlify.app](portfolio-pyaesone.netlify.app)
 
 - 💬 Ask me about **JavaScript, NodeJs, CSS**
 
