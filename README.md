@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **open source projects**
 
-- 👨‍💻 All of my projects are available at [pyaesonepsn.github.io/portfolio-project](pyaesonepsn.github.io/portfolio-project)
+- 👨‍💻 All of my projects are available at [pyaesonepsn.github.io/portfolio-project]()
 
 - 💬 Ask me about **JavaScript, NodeJs, CSS**
 
